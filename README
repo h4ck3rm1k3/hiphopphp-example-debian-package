@@ -1,0 +1,20 @@
+this is an simple skeleton hello world application
+it was created using my debian packaging of hiphop php,
+
+Unfortunaly my installer of the debian package is not CMakeLists.txt working 100% yet, but the building is, so instead of installing the resulting debian package you use
+the build directory. For me it was the  /usr/src/hip
+
+The command to generate the code was :
+hphp -k1 -t cpp -f exec  --output-dir out  helloword.php
+
+but the cmake was edited by me.
+
+thanks to Remi_Woler  http://www.wolerized.com/ from irc.freenode.net on the #hiphop-php channel.
+
+The Hello World app is here :
+<?php
+
+echo "hello world!";
+
+?>
+
