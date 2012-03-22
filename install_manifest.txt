@@ -1,1 +1,1 @@
-/usr/local/bin/helloworld-hphp
+/usr/bin/helloworld-hphp
