@@ -1,0 +1,6 @@
+
+#ifndef __GENERATED_test2_sys_scalar_arrays_remap_h867a3ffc__
+#define __GENERATED_test2_sys_scalar_arrays_remap_h867a3ffc__
+
+
+#endif // __GENERATED_test2_sys_scalar_arrays_remap_h867a3ffc__

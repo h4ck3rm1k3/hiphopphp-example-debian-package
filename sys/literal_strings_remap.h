@@ -1,0 +1,6 @@
+
+#ifndef __GENERATED_test2_sys_literal_strings_remap_he9d66182__
+#define __GENERATED_test2_sys_literal_strings_remap_he9d66182__
+
+
+#endif // __GENERATED_test2_sys_literal_strings_remap_he9d66182__

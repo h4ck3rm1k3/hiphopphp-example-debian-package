@@ -1,0 +1,16 @@
+
+#include <runtime/base/hphp.h>
+#include <sys/scalar_arrays_remap.h>
+#include <sys/scalar_integers_remap.h>
+#include <sys/global_variables.h>
+
+
+namespace HPHP {
+///////////////////////////////////////////////////////////////////////////////
+
+
+void ScalarArrays::initializeNamed() {
+}
+
+///////////////////////////////////////////////////////////////////////////////
+}

@@ -1,0 +1,6 @@
+
+#ifndef __GENERATED_test2_sys_scalar_integers_remap_h69584c41__
+#define __GENERATED_test2_sys_scalar_integers_remap_h69584c41__
+
+
+#endif // __GENERATED_test2_sys_scalar_integers_remap_h69584c41__

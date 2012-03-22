@@ -1,0 +1,15 @@
+Source: helloworld
+Section: unknown
+Priority: extra
+Maintainer: root <jamesmikedupont@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), cmake
+Standards-Version: 3.8.4
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/helloworld.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/helloworld.git;a=summary
+
+Package: helloworld
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

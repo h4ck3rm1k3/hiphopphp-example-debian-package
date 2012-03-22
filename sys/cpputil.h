@@ -1,0 +1,17 @@
+
+
+#ifndef __GENERATED_sys_cpputil_h66f49dc0__
+#define __GENERATED_sys_cpputil_h66f49dc0__
+
+#include <runtime/base/hphp.h>
+
+namespace hphp_impl_starter {}
+
+namespace HPHP {
+///////////////////////////////////////////////////////////////////////////////
+
+
+///////////////////////////////////////////////////////////////////////////////
+}
+
+#endif // __GENERATED_sys_cpputil_h66f49dc0__
