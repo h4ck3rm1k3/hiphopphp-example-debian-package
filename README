@@ -9,7 +9,7 @@ the build directory. For me it was the  /usr/src/hiphop-php-0.1/
 I will be working on fixing that so you use the debian package directly.
 
 The command to generate the code was :
-hphp -k1 -t cpp -f exec  --output-dir out  helloword.php
+hphp -k1 -t cpp -f exe  --output-dir out  helloword.php
 
 but the cmake was edited by me.
 
